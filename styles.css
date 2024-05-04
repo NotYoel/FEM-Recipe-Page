@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
-
+/* VARIABLES */
 :root {
     --very-sm-margin: 20px;
     --med-margin: 30px;
@@ -15,6 +15,7 @@
     --hr-color: rgba(128, 128, 128, 0.3);
 }
 
+/* GENERAL STYLES */
 * {
     margin: 0;
     padding: 0;
@@ -66,6 +67,8 @@ body {
     justify-content: center;
     padding: 130px 0px;
 }
+
+/* MAIN/TOP SECTION */
 
 main {
     width: 735px;
